@@ -31,4 +31,4 @@ I found these websites useful in developing this software:
 
 ****
 ## Video
-[Software Demo Video](https://youtu.be/WO9V9TSF11E)
+[Demo Video](https://youtu.be/WO9V9TSF11E)
